@@ -1,6 +1,6 @@
 # Pizza Sales Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 An end-to-end Pizza Sales Data Analysis project using **MS SQL Server, SQL, Power Query, DAX and Power BI** to analyze sales performance, product performance, customer ordering patterns and key business KPIs.
 
@@ -10,7 +10,7 @@ The project follows the complete analytical workflow:
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 The business has historical pizza sales transaction data but needs to understand its sales performance and customer ordering patterns.
 
@@ -33,7 +33,7 @@ The objective is to transform raw transactional data into meaningful business in
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 The dataset contains pizza sales transaction-level data.
 
@@ -67,7 +67,7 @@ A single order can contain multiple pizza records, therefore `COUNT(DISTINCT ord
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Raw Dataset
